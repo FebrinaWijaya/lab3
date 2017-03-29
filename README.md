@@ -1,7 +1,10 @@
 # lab3
 To compile lab 3 part A:
+
 make
+
 To execute lab 3 part A:
+
 ./main
 
 Part B:
